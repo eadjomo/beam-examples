@@ -13,7 +13,7 @@ import java.io.Reader;
 import java.nio.channels.Channels;
 
 /**
- * @author #datalake-tooling-support <list.datalake-tooling-support@renault.com> on 07/12/2019
+ * @author #training <eadjomo@enydata.co> on 07/12/2019
  */
 public class CsvParser extends DoFn<FileIO.ReadableFile,CSVRecord> {
 
