@@ -20,7 +20,7 @@ import java.sql.Date;
 import java.util.List;
 
 /**
- * @author #datalake-tooling-support <list.datalake-tooling-support@renault.com> on 07/12/2019
+ * @author #training <eadjomo@enydata.co> on 07/12/2019
  */
 public class CsvToAvro {
     public static void main(String... args) {
