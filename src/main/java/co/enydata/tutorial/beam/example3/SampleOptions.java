@@ -1,7 +1,7 @@
 package co.enydata.tutorial.beam.example3;
 
 /**
- * @author #datalake-tooling-support <list.datalake-tooling-support@renault.com> on 09/12/2019
+ * @author #training <eadjomo@enydata.co> on 07/12/2019
  */
 
 import org.apache.beam.runners.dataflow.options.DataflowPipelineOptions;
