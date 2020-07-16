@@ -4,7 +4,7 @@ package co.enydata.tutorial.beam.example3;
 import org.apache.beam.sdk.schemas.Schema;
 
 /**
- * @author #datalake-tooling-support <list.datalake-tooling-support@renault.com> on 08/12/2019
+ * @author #training <eadjomo@enydata.co> on 07/12/2019
  */
 public abstract class Util {
    public final static Schema schema = Schema.builder()
