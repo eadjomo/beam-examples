@@ -9,7 +9,7 @@ import org.apache.beam.sdk.transforms.SimpleFunction;
 import org.apache.beam.sdk.values.KV;
 
 /**
- * @author #datalake-tooling-support <list.datalake-tooling-support@renault.com> on 07/12/2019
+ * @author #training <eadjomo@enydata.co> on 07/12/2019
  */
 public class App {
     public static void main(String... args) {
